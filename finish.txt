@@ -1,0 +1,1 @@
+Creating the student portfolio is completed. Now we can enter the details of the students.
